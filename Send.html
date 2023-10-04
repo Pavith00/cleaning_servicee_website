@@ -1,0 +1,141 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="mystyle.css" />
+
+		<title>Form Valdation</title>
+		<script type = "text/javascript">
+		function validate()
+		{
+			var username = document.getElementById("name");
+            var service = document.getElementById("subject");
+			var email = document.getElementById("email");
+            var Message = document.getElementById("message");
+
+			if (username.value == "" || service.value == "" || Message == "" || email=="")
+			{
+				alert("No blank values allowed");
+				return false;
+			}
+			
+			var regx = /^([a-zA-Z0-9\.-]+)@([a-z]+)(.[a-z]+)?$/;
+			 if (!regx.test(email.value)) {
+                alert("Sorry! Incorrect Email Format");
+                return false;
+            }
+			
+			
+			return true;
+			
+		}
+		
+		</script>
+		<style>
+             .email-form {
+                box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+                padding: 30px;
+                background: #fff;
+            }
+
+                 .email-form input, textarea {
+                    width: 100%;
+                    padding: 10px;
+                    border: 1px solid #ccc;
+                    border-radius: 4px;
+                    margin-bottom: 1rem;
+                    resize: vertical;
+                }
+
+
+		</style>
+
+		
+	</head>
+	<body>
+
+		<header id="header" class="fixed-top">
+			<div>
+				<nav id="navbar" class="navbar">
+					<ul>
+						<li><a class="nav-link scrollto active" href="home.html">Home</a></li>
+						<li><a class="nav-link scrollto" href="Deep Cleaning.html">Deep Cleaning</a></li>
+						<li><a class="nav-link scrollto" href="Residential.html">Residential</a></li>
+						<li><a class="nav-link scrollto" href="Commercial Cleaning.html">Commercial Cleaning</a></li>
+
+
+						
+					</ul>
+					<i class="bi bi-list mobile-nav-toggle"></i>
+				</nav><!-- .navbar -->
+
+			</div>
+
+		</header><!-- End Header -->
+
+		<p>
+			<br />
+			<br />
+			<br />
+
+		</p>
+
+		<div align="center">
+			<form action="insert.php" method="post" role="form" class="email-form" onsubmit="return validate()">
+				
+				<table>
+					<tr>
+						<td width="250">Name:</td>
+						<td width="300"><input type="text" name="name" id="name" autocomplete="off"></td>
+					</tr>
+					<tr>
+						<td>E mail:</td>
+						<td><input type="text" name="email" id="email" placeholder="xxx@gmail.com" autocomplete="off"></td>
+					</tr>
+					<tr>
+						<td>Service Type:</td>
+						<td><input type="text" name="subject" id="subject" autocomplete="off"></td>
+					</tr>
+					<tr>
+						<td>Message: </td>
+						<td><textarea name="message" id="message" rows="5" placeholder="Mention the date and number of employees required for service" autocomplete="off"></textarea></td>
+					</tr>
+					<tr>
+						<td> <button type="submit">Submit</button></td>
+					</tr>
+
+				</table>
+			</form>
+		</div>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<footer>
+			<div class="footer">
+				<div class="row">
+					<a href="https://www.facebook.com"><i class="fa fa-facebook"></i></a>
+					<a href="https://www.instagram.com"><i class="fa fa-instagram"></i></a>
+					<a href="https://www.youtube.com"><i class="fa fa-youtube"></i></a>
+					<a href="https://www.twitter.com"><i class="fa fa-twitter"></i></a>
+				</div>
+
+
+				<div class="row">
+					<center><h4>OUR SERVICES</h4></center>
+					<ul>
+						<li><a href="#">Contact us</a></li>
+						<li><a href="#">Our Services</a></li>
+						<li><a href="#">Privacy Policy</a></li>
+						<li><a href="#">Terms & Conditions</a></li>
+						<li><a href="#">Career</a></li>
+					</ul>
+				</div>
+
+				<div class="row">
+					||Website Designed By: Group ||
+				</div>
+			</div>
+		</footer>
+
+
+		<script src="pavi.js"></script>
+
+
+	</body>
+</html>
