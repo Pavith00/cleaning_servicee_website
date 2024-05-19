@@ -46,7 +46,8 @@ This project serves as our introduction to web development. While it may lack th
 ## Contributors:
 This project was a team effort by a group of 5 students. The team members are:
 
-[Pavith00](https://github.com/Pavith00) | [LinkedIn](https://www.linkedin.com/in/pavithra-ramanayake-52918a251/)
+[Pavith00](https://github.com/Pavith00) | [LinkedIn](https://www.linkedin.com/in/pavithra-ramanayake-52918a251/) 
+
 Github | LinkedIn
 Github | LinkedIn
 Github | LinkedIn
