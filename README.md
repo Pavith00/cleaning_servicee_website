@@ -28,7 +28,7 @@ This project serves as our introduction to web development. While it may lack th
    - Utilizes PHP for form submission and processing (a basic implementation for learning purposes).
 
 ## Screenshots:
-[home](https://github.com/Pavith00/cleaning_servicee_website/assets/113990110/90885944-d80f-49c7-8678-ffb3f08cadcb)
+![home](https://github.com/Pavith00/cleaning_servicee_website/assets/113990110/90885944-d80f-49c7-8678-ffb3f08cadcb)
 ![Services](https://github.com/Pavith00/cleaning_servicee_website/assets/113990110/984067ac-207e-4551-8e27-4b059612b919)
 ![Deep Cleaning](https://github.com/Pavith00/cleaning_servicee_website/assets/113990110/32834001-cc5c-442c-b2e7-bb2f141f120e)
 ![Commercial Cleaning](https://github.com/Pavith00/cleaning_servicee_website/assets/113990110/aaad9dd3-b2a9-4a60-85c9-ab62d458c4c3)
