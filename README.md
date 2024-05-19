@@ -48,10 +48,12 @@ This project was a team effort by a group of 5 students. The team members are:
 
 [Pavith00](https://github.com/Pavith00) | [LinkedIn](https://www.linkedin.com/in/pavithra-ramanayake-52918a251/) 
 
-Github | LinkedIn
-Github | LinkedIn
-Github | LinkedIn
-Github | LinkedIn
+[Github]() | [LinkedIn]()
+[Github]() | [LinkedIn]()
+[Github]() | [LinkedIn]()
+[Github]() | [LinkedIn]()
+
+
 
 
 This README reflects our humble beginnings in web development and serves as a reminder of our journey as aspiring developers. Feel free to enhance it further as you continue to learn and grow in your web development endeavors!
