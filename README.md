@@ -27,6 +27,16 @@ This project serves as our introduction to web development. While it may lack th
    - Includes a "Send Us" page with a basic contact form for user inquiries or bookings.
    - Utilizes PHP for form submission and processing (a basic implementation for learning purposes).
 
+## Screenshots:
+![Deep Cleaning](https://github.com/Pavith00/cleaning_servicee_website/assets/113990110/32834001-cc5c-442c-b2e7-bb2f141f120e)
+![Send Us](https://github.com/Pavith00/cleaning_servicee_website/assets/113990110/2fa26378-c127-48f4-9be7-15df7007406f)
+![Contact](https://github.com/Pavith00/cleaning_servicee_website/assets/113990110/0f0fc825-3b41-4243-a63a-6b0129ae6f88)
+![Portfolio](https://github.com/Pavith00/cleaning_servicee_website/assets/113990110/49b639b2-064b-4106-8dcf-611611a1b10d)
+![Services](https://github.com/Pavith00/cleaning_servicee_website/assets/113990110/984067ac-207e-4551-8e27-4b059612b919)
+![home](https://github.com/Pavith00/cleaning_servicee_website/assets/113990110/90885944-d80f-49c7-8678-ffb3f08cadcb)
+![Commercial Cleaning](https://github.com/Pavith00/cleaning_servicee_website/assets/113990110/aaad9dd3-b2a9-4a60-85c9-ab62d458c4c3)
+
+
 ## Files:
 
 - **HTML Files:** home.html, Residential.html, Commercial Cleaning.html, Deep Cleaning.html, Send.html
