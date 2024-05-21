@@ -57,7 +57,7 @@ This project was a team effort by a group of 5 students. The team members are:
 
 [Pavith00](https://github.com/Pavith00) | [LinkedIn](https://www.linkedin.com/in/pavithra-ramanayake-52918a251/) 
 
-[Github]() | [LinkedIn]()
+[Ridmi](https://github.com/Riyash99) | [LinkedIn](www.linkedin.com/in/ridmiyashodha)
 
 [Github]() | [LinkedIn]()
 
