@@ -57,9 +57,9 @@ This project was a team effort by a group of 5 students. The team members are:
 
 [Pavithra Ramanayake](https://github.com/Pavith00) | [LinkedIn](https://www.linkedin.com/in/pavithra-ramanayake-52918a251/) 
 
-[Ridmi Yashoda](https://github.com/Riyash99) | [LinkedIn](www.linkedin.com/in/ridmiyashodha)
+[Ridmi Yashoda](https://github.com/Riyash99) | [LinkedIn](https://www.linkedin.com/in/ridmiyashodha/)
 
-[Naushika Lakshani](https://github.com/Naushi98) | [LinkedIn](www.linkedin.com/in/naushikalakshani)
+[Naushika Lakshani](https://github.com/Naushi98) | [LinkedIn](https://www.linkedin.com/in/naushikalakshani/)
 
 [Github]() | [LinkedIn]()
 
