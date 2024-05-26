@@ -59,7 +59,7 @@ This project was a team effort by a group of 5 students. The team members are:
 
 [Ridmi](https://github.com/Riyash99) | [LinkedIn](www.linkedin.com/in/ridmiyashodha)
 
-[Github]() | [LinkedIn]()
+[Naushi98](https://github.com/Naushi98) | [LinkedIn](www.linkedin.com/in/naushikalakshani)
 
 [Github]() | [LinkedIn]()
 
