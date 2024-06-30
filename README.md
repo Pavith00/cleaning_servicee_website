@@ -1,4 +1,4 @@
-# Brightcleen Cleaning Services Website
+# Brightclean Cleaning Services Website
 
 Welcome to our very first HTML project! This website is a group effort created for a fictional cleaning service company called Brightcleen. As beginners in web development, we aimed to keep the project simple yet effective, focusing on learning and implementing fundamental HTML, CSS, and JavaScript concepts.
 
