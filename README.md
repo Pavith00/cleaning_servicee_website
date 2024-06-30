@@ -55,11 +55,11 @@ This project serves as our introduction to web development. While it may lack th
 ## Contributors:
 This project was a team effort by a group of 5 students. The team members are:
 
-[Pavith00](https://github.com/Pavith00) | [LinkedIn](https://www.linkedin.com/in/pavithra-ramanayake-52918a251/) 
+[Pavithra Ramanayake](https://github.com/Pavith00) | [LinkedIn](https://www.linkedin.com/in/pavithra-ramanayake-52918a251/) 
 
-[Ridmi](https://github.com/Riyash99) | [LinkedIn](www.linkedin.com/in/ridmiyashodha)
+[Ridmi Yashoda](https://github.com/Riyash99) | [LinkedIn](https://www.linkedin.com/in/ridmiyashodha/)
 
-[Github]() | [LinkedIn]()
+[Naushika Lakshani](https://github.com/Naushi98) | [LinkedIn](https://www.linkedin.com/in/naushikalakshani/)
 
 [Github]() | [LinkedIn]()
 
