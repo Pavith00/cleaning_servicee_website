@@ -4,7 +4,7 @@ Welcome to our very first HTML project! This website is a group effort created f
 
 ## About the Project:
 
-This project serves as our introduction to web development. While it may lack the complexity of advanced websites, it showcases our journey as beginners in understanding and applying HTML, CSS, and JavaScript fundamentals.
+This project serves as our introduction to web development. While it may lack the complexity of advanced websites, it showcases our journey as beginners in understanding and applying Bootstrap, HTML, CSS, and JavaScript fundamentals.
 
 ## Features:
 
